@@ -86,10 +86,17 @@
   font-size: 50px;
   width: 10rem;
 }
+.follow a{
+  text-decoration: none;
+  color: black;
+}
 .justIn h1 {
   font-size: larger;
   text-decoration: underline;
   
+}
+.btn-shop{
+  background: rgb(174,159,150) !important;
 }
 .card5 {
   height: 75vh;
